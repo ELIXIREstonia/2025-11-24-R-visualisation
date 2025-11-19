@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R"
 author: "Priit Adler"
-date: "2024-10-09"
+date: "2025-11-24"
 output: html_document
 editor_options: 
   markdown: 
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Introduction (Rstudio / R)
 
 You can find this and the data files from ELIXIREstonia github:
-<https://github.com/ELIXIREstonia/2024-10-09-R-visualisation>
+<https://github.com/ELIXIREstonia/2025-11-24-R-visualisation>
 
 R is a popular open-source programming language and environment for statistical
 computing and graphics.
@@ -828,4 +828,5 @@ drag-and-drop graph building.
 
 ### Feedback
 
-Before you leave, please provide ['feedback'](https://forms.gle/1PfHcBkVgktUG7zU6)!
+Before you leave, please provide
+['feedback'](https://forms.gle/1PfHcBkVgktUG7zU6)!
